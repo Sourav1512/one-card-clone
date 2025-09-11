@@ -32,6 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // Replace with actual link
       window.location.href = "https://www.getonecard.app/apply";
     });
+  
   });
 
   // ========== Animate Elements on Scroll ==========
@@ -52,6 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
   window.addEventListener("scroll", revealOnScroll);
   revealOnScroll(); // Run on page load
 });
+
 
 
 
