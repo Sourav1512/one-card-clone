@@ -8,7 +8,6 @@ document.addEventListener("DOMContentLoaded", () => {
       navbar.style.boxShadow = "0 4px 10px rgba(0,0,0,0.1)";
     } else {
       navbar.style.boxShadow = "none";
-      
     }
   });
 
@@ -53,6 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
   window.addEventListener("scroll", revealOnScroll);
   revealOnScroll(); // Run on page load
 });
+
 
 
 
